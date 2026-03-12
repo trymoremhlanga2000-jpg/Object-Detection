@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+.venv
+venv/
+*.pt
+!yolov8n.pt
+.DS_Store
+*.log
+.streamlit/secrets.toml
+runs/
